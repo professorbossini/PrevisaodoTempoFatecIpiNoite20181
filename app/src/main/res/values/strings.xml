@@ -3,8 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="invalid_url">URL Inválida</string>
     <string name="weather_condition_image">Uma representação gráfica das condições de tempo</string>
-    <string name="high_temp">Máxima: %s</string>
-    <string name="low_temp">Mínima: %s</string>
+    <string name="high_temp">Máxima: %s\u00B0C</string>
+    <string name="low_temp">Mínima: %s\u00B0C</string>
     <string name="day_description">%1$s: %2$s</string>
     <string name="humidity">Umidade: %s</string>
     <string name="hint_text">Digite o nome da cidade</string>
